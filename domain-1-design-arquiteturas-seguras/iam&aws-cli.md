@@ -6,4 +6,4 @@
 - users don't have to belong to a group, and user can belong to multiple groups.
 
 
-<img src="https://github.com/Terraform-Tutorials/learn-terraform-associate-exam/blob/main/terraform-objectives/images/terra10.png" width="200" height="200"/>
+<img src="https://github.com/amaurybsouza/aws-solutions-architect-associate/blob/main/images/aws1.png" width="200" height="200"/>
