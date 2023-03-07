@@ -5,5 +5,4 @@
 - groups only contain users, not other groups
 - users don't have to belong to a group, and user can belong to multiple groups.
 
-
-<img src="https://github.com/amaurybsouza/aws-solutions-architect-associate/blob/main/images/aws1.png" width="200" height="200"/>
+![aws](https://github.com/amaurybsouza/aws-solutions-architect-associate/blob/main/images/aws1.png)
