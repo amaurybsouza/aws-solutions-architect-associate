@@ -1,6 +1,8 @@
 # AWS Certified Solutions Architect - Associate (SAA-C03) Exam Notes
 The AWS Certified Solutions Architect - Associate (SAA-C02) examination is intended for individuals who perform in a solutions architect role. This exam validates an examinee's ability to effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies.
 
+![aws](https://github.com/amaurybsouza/aws-solutions-architect-associate/blob/main/images/aws1.png)
+
 ## Visão geral do exame
 - **Nível**: Associate
 - **Duração**: 130 minutos para concluir o exame
